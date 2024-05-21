@@ -1,0 +1,44 @@
+TP N° 5.1 – TAD árbol
+
+
+
+2. a) Se trata de un árbol binario ya que cada nodo tiene no más de 2 hijos.
+
+b) la raíz es "15"
+
+c) las hojas son 5; 14; 16; 31. Ya que son los elementos más profundos de arbol.
+
+d) El padre de 17 es la raíz 15.
+
+e) los hijos de 13 son: 11 y 14.
+
+f) la altura de 19 es de 1.
+
+g) la profundidad de 16 es de 2 y la profundidad de 15 es de 3.
+
+
+3. 
+
+ 0     1    2    3    4    5    6   7   8    9    10   11   12   13   14
+
+[15],[13],[17],[11],[14],[16],[19],[5],[-1],[-1],[-1],[-1],[-1],[-1],[31]
+
+
+4.  PREORDEN : 15,13,11,5,14,16,17,19,31.
+
+    POSORDEN : 5,11,14,13,31,16,19,17,15.
+
+    INORDEN : 5,11,13,14,15,16,17,19,31.
+
+
+5.
+
+
+                                  43
+                                   |
+
+                        36         |              58
+ 
+                  9      |    23   |     52        |      65
+
+              2    |               |                        |  91
